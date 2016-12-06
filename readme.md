@@ -1,11 +1,11 @@
-## *[Project Reference here]*
+## 054 Atos Connected Experience
 - [Overview](#overview)
 - [Goals](#goals)
 - [Drivers](#drivers)
 - [Project Information](#project-information)
 
 # Overview #
-*Add here a description of the project explaining at high level what the project is about.*
+This project is a webapp which assists with check in processes when an invitee arrives at an office location.
 
 *<b>Note:</b>  visio and graphml diagrams are provided in design folder if you require changes to suit your project*
 
@@ -13,9 +13,9 @@
 
 *Describe the project goals in a bullet point list:*
 
-- Goal 1
-- Goal 2
-- Goal 3
+- The project will send a email reminder to the invitee with a link to the app that allows them to self check in.
+- The project will provide a view for the receptionist that allows them to check in a invitee and/or assign them a badge number.
+- The project will inform the inviter of the invitee check in and allow them to be reminded to pick up the invitee.
 
 ### Drivers
 
@@ -50,15 +50,11 @@ Delivery Date: *[dd/mm/yyyy]*
 ###Team and Contacts
 <table>
 <tr><th>Name</th><th>email</th><th>Role</th></tr>
-<tr><td>TBA</td><td>tbar@atos.net</td><td>Delivery Manager</td></tr>
-<tr><td>TBA</td><td>tba@atos.net</td><td>Product Owner</td></tr>
-<tr><td>TBA</td><td>tba@atos.net</td><td>BA</td></tr>
-<tr><td>TBA</td><td>tba@atos.net</td><td>Tester</td></tr>
-<tr><td>TBA</td><td>tba@atos.net</td><td>Technical Lead/Lead Developer</td></tr>
-<tr><td>TBA</td><td>tba@atos.net</td><td>UX</td></tr>
-<tr><td>TBA</td><td>tba@atos.net</td><td>Software Architect</td></tr>
-<tr><td>TBA</td><td>tba@atos.net</td><td>Developer</td></tr>
-<tr><td>TBA</td><td>tba@atos.net</td><td>Developer</td></tr>
+<tr><td>Sison, Vee</td><td>veronica.sison@atos.net</td><td>UX Design Lead</td></tr>
+<tr><td>Evans, Paul</td><td>paul.2.evans@atos.net</td><td>UX Designer</td></tr>
+<tr><td>Roberts, Steve</td><td>stephen.roberts@atos.net</td><td>Tester</td></tr>
+<tr><td>Ali, Rashid</td><td>abdirashid.ali@atos.net</td><td>Developer</td></tr>
+<tr><td>Chow, Tony</td><td>tony.chow@atos.net</td><td>Developer</td></tr>
 </table>
 
 
